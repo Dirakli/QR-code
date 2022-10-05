@@ -1,14 +1,5 @@
-/* body {
-  padding-top: 151px;
-  padding-bottom: 152px;
-  padding-left: 560px;
-  padding-right: 560px;
-  background-color: hsl(212, 45%, 89%);
-} */
-
 .div-main {
-  width: 1440px;
-  height: 800px;
+  height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
